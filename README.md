@@ -1,1 +1,4 @@
-# BPIT-8-Sept-Game-Development
+# BPIT 8 Sept Game Development
+
+Created by: vintisachdeva
+
